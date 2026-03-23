@@ -1,5 +1,7 @@
 
-In this demo, we showcase how to integrate a custom Azure AI Foundry Agent with Microsoft 365 Copilot using a modular and scalable architecture.
+ Azure AI Agent
+ ---------------
+ we showcase how to integrate a custom Azure AI Foundry Agent with Microsoft 365 Copilot using a modular and scalable architecture.
 Instead of relying solely on Copilot’s out-of-the-box capabilities, We’re using a dedicated AI agent to ensure consistent and reliable answers, showcasing how this setup can be adapted for specific business scenarios later.
 To make this possible, we combined:
 •	Azure AI Foundry – to host the custom GPT-based agent(Host logic and memory)
